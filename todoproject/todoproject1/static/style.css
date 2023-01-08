@@ -1,0 +1,16 @@
+.banner{
+    background-color:SpringGreen;
+    width:100%;
+    height:150px;
+    margin-bottom:50px;
+}
+.banner-text{
+    color:Maroon;
+    font-family:verdana
+    transform:transform;
+    position:absolute;
+    top:70px;
+    width:100%;
+    text-align:center;
+
+}
